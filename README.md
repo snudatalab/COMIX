@@ -82,14 +82,7 @@ Together, these modules enable **reliable negative discovery** and **stable mult
 Please cite the following paper if you use our code:
 
 ```
-@article{yoon2025cosmos,
-  title   = {COMIX: Confidence-based logit-level graph mixup},
-  author  = {Yoon, Hoyoung and Kim, Junghun and Park, Shihyung and Kang, U},
-  journal = {PLOS ONE},
-  year    = {2025},
-  publisher = {Public Library of Science},
-  doi     = {10.1371/journal.pone.xxxxxxx}
-}
+TBD
 ```
 
 ---
