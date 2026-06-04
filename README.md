@@ -1,7 +1,7 @@
 #  COMIX: Confidence-based logit-level graph mixup
 
 This project is a PyTorch implementation of **COMIX**  
-(*Confidence-based logit-level graph mixup*, PLOS ONE 2025).  
+(*Confidence-based logit-level graph mixup*).  
 COMIX proposes a confidence-guided sampling and adaptive logit-level mixup framework that achieves  
 accurate graph classification under multi-positive unlabeled (MPU) learning settings.
 
